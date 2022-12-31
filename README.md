@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek👋
 - 👀 I’m interested to work as a Data Scientist.
-- 🌱 I’m currently learning Data Science from IT Vedant Instituate.
+- 🌱 I’m currently pursuing Master's in Data Science from IT Vedant Instituate.
 - 💞️ I’m looking to collaborate with Data Scientist in Mumbai ...
 - 📫 You can reach to me at abhipandit800@gmail.com
 
